@@ -1,4 +1,4 @@
-local dupeKey = 399937689
+local dupeKey = 1231826488
 local lib = require(game.ReplicatedStorage:WaitForChild('Framework'):WaitForChild('Library'))
     local mybanks = lib.Network.Invoke("get my banks")
     local BankID = mybanks[1]['BUID']
